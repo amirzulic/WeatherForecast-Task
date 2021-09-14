@@ -1,0 +1,71 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("https://i.pinimg.com/originals/28/4b/96/284b96ea0e8f6be5f493803ac9dbb8fa.jpg");
+  background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#containerAll {
+  padding: 50px;
+  background: transparent;
+}
+
+#containerNaslova {
+  background: transparent;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-family: "Tahoma";
+  text-transform: uppercase;
+}
+
+#containerForme {
+  background-color: rgb(153, 204, 255, 0.3);
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: "Tahoma";
+  color: white;
+}
+
+#containerIspisa {
+  font-family: "Tahoma";
+  background-color: rgb(153, 204, 255, 0.3);
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  text-align: center;
+}
+
+h3 {
+  border: 0.5px solid white;
+  border-radius: 15px;
+  background-color: rgb(255, 219, 77, 0.2);
+}
+
+h5 {
+  padding: 5px;
+  border: 0.5px solid white;
+  border-radius: 15px;
+  background-color: rgb(255, 219, 77, 0.5);
+}
+
+h3:hover {
+  background-color: rgb(255, 219, 77, 0.0); ;
+}
+
+h5:hover {
+  background-color: rgb(255, 219, 77, 0.0); ;
+}
+
